@@ -38,4 +38,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/petrmvala/JakSeBudiPrincezny.git",
+    devbranch = "main",
 )
