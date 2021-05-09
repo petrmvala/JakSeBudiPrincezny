@@ -31,6 +31,7 @@ makedocs(;
         collapselevel = 1,
     ),
     pages = [
+        "Home" => "index.md",
         "Obsah" => contents,
     ],
 )
